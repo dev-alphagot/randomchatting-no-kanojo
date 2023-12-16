@@ -1,0 +1,5 @@
+name: $pluginName
+main: $pluginMain
+version: $version
+api-version: "1.20"
+author: AlphaGot
